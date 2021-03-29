@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: pytraders
-Version: 0.0.1
+Version: 0.0.3
 Summary: A Python package to get trading indicators.
-Home-page: git@github.com:Akil1996/pytraderr
+Home-page: https://github.com/Akil1996/pytrades
 Author: Akil Thangavel
 Author-email: akilh4@gmail.com
 License: MIT

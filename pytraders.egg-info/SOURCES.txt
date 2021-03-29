@@ -6,4 +6,5 @@ pytraders/__init__.py
 pytraders.egg-info/PKG-INFO
 pytraders.egg-info/SOURCES.txt
 pytraders.egg-info/dependency_links.txt
+pytraders.egg-info/requires.txt
 pytraders.egg-info/top_level.txt

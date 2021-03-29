@@ -8,11 +8,11 @@ def readme():
 
 setup(
     name='pytraders',
-    version='0.0.1',
+    version='0.0.3',
     description="A Python package to get trading indicators.",
     long_description=readme(),
     long_description_content_type="text/markdown",
-    url='git@github.com:Akil1996/pytraderr',  
+    url='https://github.com/Akil1996/pytrades',  
     author='Akil Thangavel',
     author_email='akilh4@gmail.com',
     license="MIT",
@@ -24,5 +24,5 @@ setup(
     ],
     packages=find_packages(),
     include_package_data=True,
-    install_requires=[],
+    install_requires=["numpy"],
 )
