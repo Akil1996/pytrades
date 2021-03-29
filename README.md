@@ -1,6 +1,6 @@
-# Weather Reporter
+# Trading Indicator
 
-A Python package to get weather reports for any location.
+A Python package to get trading indicators.
 
 ## Usage
 
