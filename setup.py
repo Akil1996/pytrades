@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='pytraders',
-    version='0.0.3',
+    version='0.0.4',
     description="A Python package to get trading indicators.",
     long_description=readme(),
     long_description_content_type="text/markdown",
@@ -21,6 +21,8 @@ setup(
         'Operating System :: OS Independent',
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
     ],
     packages=find_packages(),
     include_package_data=True,

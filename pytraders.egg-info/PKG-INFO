@@ -1,25 +1,21 @@
 Metadata-Version: 2.1
 Name: pytraders
-Version: 0.0.3
+Version: 0.0.4
 Summary: A Python package to get trading indicators.
 Home-page: https://github.com/Akil1996/pytrades
 Author: Akil Thangavel
 Author-email: akilh4@gmail.com
 License: MIT
-Description: # Weather Reporter
+Description: # pytraders
         
-        A Python package to get weather reports for any location.
+        A Python package to get Trading Indicators.
         
-        ## Usage
         
-        Following query on terminal will provide you the weather details of "delhi" for next 3 days.
-        
-        ```
-        weather-reporter -q delhi -d 3
-        ```
 Platform: UNKNOWN
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
 Description-Content-Type: text/markdown
